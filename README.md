@@ -5,7 +5,8 @@
 <br>
 <br>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?lines=I+strive+to+be+an+authentic+developer;who+values+honesty;embraces+others'+perspectives;and+blends+ideas+to+move+forward+positively)
+![Typing SVG](https://readme-typing-svg.demolab.com?lines=Welcome+to+my+GitHub+profile!;I+strive+to+be+an+authentic+developer;who+values+honesty;embraces+others'+perspectives;and+blends+ideas+to+move+forward+positively)
+
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
