@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/SungJung0616/SungJung0616/blob/main/sung_git_hub.png" height="50%" />
+  <img src="https://github.com/SungJung0616/SungJung0616/blob/main/sung_git_hub.png" style="height: 50%;" />
 </div>
 <!--
 **SungJung0616/SungJung0616** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
