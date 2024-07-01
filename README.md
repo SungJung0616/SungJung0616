@@ -63,6 +63,13 @@
 
 <br>
 
+<h3 align="center">📊 GitHub Stats 📊</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SungJung0616&layout=compact" />&nbsp
+  <img src="https://github-readme-stats.vercel.app/api?username=SungJung0616&show_icons=true&theme=radical" />&nbsp
+</div>
+<br>
+
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="https://velog.io/@oka1313](https://www.linkedin.com/in/sungjung0616/">
