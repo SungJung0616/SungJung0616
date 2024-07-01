@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/SungJung0616/SungJung0616/blob/main/sung_git_hub.png" style="height: 50%;" />
+  <img src="https://github.com/SungJung0616/SungJung0616/blob/main/resized_sung_git_hub.png" />
 </div>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
