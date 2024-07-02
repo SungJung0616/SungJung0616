@@ -73,7 +73,7 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="https://www.linkedin.com/in/sungjung0616/">(https://www.linkedin.com/in/sungjung0616/">
+  <a href="https://www.linkedin.com/in/sungjung0616/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />&nbsp
   </a>
   <a href="mailto:sungjung0616@gmail.com">
