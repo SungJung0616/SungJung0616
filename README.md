@@ -1,98 +1,94 @@
 <div align="center">
-  <img src="https://github.com/SungJung0616/SungJung0616/blob/main/resized_sung_git_hub.png" />
+
+# Sung Jung
+
+### QA Engineering · Test Automation · Operations Systems
+
+Gardena, California
+
+[Portfolio](https://sj-personalportfolio.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/sungjung0616/) · [Email](mailto:sungjung0616@gmail.com)
+
 </div>
 
-<br>
-<br>
+---
 
-![Typing SVG](https://readme-typing-svg.demolab.com?lines=Welcome+to+my+GitHub+profile!;I+strive+to+be+an+authentic+developer;who+values+honesty;embraces+others'+perspectives;and+blends+ideas+to+move+forward+positively)
+## About Me
 
+I am a QA and operations professional who improves real workflows through structured testing, data validation, and practical automation.
 
-<h3 align="center">✨ Tech Stack ✨</h3>
+My background includes game QA and PlayStation release support for *Eternights*, marketplace order-data automation, and warehouse operations systems supporting high-volume 3PL fulfillment. I build tools with Python, JavaScript, and Google Apps Script to reduce repetitive work while keeping human review and operational reliability in the process.
+
+I am currently focused on opportunities in:
+
+- QA Automation Engineering
+- Software Quality Engineering
+- SDET
+- Game QA
+- Automation and Internal Tools Engineering
+
+## Experience Highlights
+
+- Supported development and PlayStation release QA for *Eternights* at Studio Sai.
+- Reduced a recurring regression workflow from approximately 8 hours to 4 hours using developer-provided save states and checkpoints.
+- Built Python/openpyxl automation that reduced daily marketplace-order preparation from approximately 3 hours to 30 minutes while preserving final human review.
+- Helped establish and improve workflows for a 3PL operation using Extensiv WMS and Workpad OMS.
+- Implemented Google Apps Script workflows for operational email tracking and scanner-based returns processing.
+- Own the operations and systems side of LAYRD, a Shopify-based home and tableware business.
+
+## Selected Work
+
+### [Personal Portfolio](https://github.com/SungJung0616/myportfolio)
+
+A React portfolio documenting verified work across game QA, order-data automation, 3PL operations, and business systems. Case studies clearly separate individual ownership from team and company contributions.
+
+### [Coupang Order Automation](https://github.com/SungJung0616/AutomationCoupangOrder)
+
+A Python/openpyxl workflow that maps marketplace order data, normalizes required fields, flags exceptions, and generates an upload-ready shipping file for final review.
+
+### [Return Scan](https://github.com/SungJung0616/return-scan)
+
+An operational workflow project focused on reducing repetitive return-processing entry through scanned tracking and lot information.
+
+### [Shipping Operations Automation](https://github.com/SungJung0616/sungstation)
+
+An order-fulfillment and shipping workflow project built around ShipStation API integration.
+
+### [StockAI](https://github.com/SungJung0616/StockAI)
+
+A Python-based market analysis project exploring explainable, data-driven analysis rather than automated investment decisions.
+
+## Technical Toolkit
+
+**Quality Engineering**
+
+Manual Testing · Regression Testing · Functional Testing · Release Validation · Test Case Design · Defect Reporting · Unity Test Framework
+
+**Automation and Programming**
+
+Python · JavaScript · Google Apps Script · Selenium for personal/technical projects
+
+**Web and Data**
+
+React · Node.js · HTML · CSS · SQL · PostgreSQL · MongoDB · Git · GitHub
+
+**Operational Systems**
+
+Extensiv WMS · Workpad OMS · Shopify · Excel · Google Sheets · ECOUNT ERP
+
+## Working Principles
+
+- Represent experience truthfully.
+- Build automation around real operational needs.
+- Keep validation and exception handling visible.
+- Measure improvement without overstating ownership.
+- Treat software quality as part of the entire system, not only the final test step.
+
+---
+
 <div align="center">
-  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
-  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
+
+Open to QA Automation, SDET, Software QA, Game QA, and Automation Engineering opportunities.
+
+[View Portfolio](https://sj-personalportfolio.netlify.app/) · [Connect on LinkedIn](https://www.linkedin.com/in/sungjung0616/)
+
 </div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" />&nbsp  
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/postgresql-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp  
-</div>
-
-
-<br>
-
-<h3 align="center">📚 Studying 📚</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" />&nbsp
-</div>
-
-<br>
-<br>
-
-<h3 align="center">🛠 Tools 🛠</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/awselasticbeanstalk-3bba61.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />&nbsp
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/unreal-0E1128.svg?style=for-the-badge&logo=unreal-engine&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
-  <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
-</div>
-
-<br>
-
-<h3 align="center">📊 GitHub Stats 📊</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SungJung0616&layout=compact" />&nbsp
-  <img src="https://github-readme-stats.vercel.app/api?username=SungJung0616&show_icons=true&theme=radical" />&nbsp
-</div>
-<br>
-
-<h3 align="center">📫 Contact 📫</h3>
-<div align="center">
-  <a href="https://www.linkedin.com/in/sungjung0616/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />&nbsp
-  </a>
-  <a href="mailto:sungjung0616@gmail.com">
-    <img
-      src="https://img.shields.io/badge/sungjung0616@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
-</div>
-
-<!--
-**SungJung0616/SungJung0616** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
